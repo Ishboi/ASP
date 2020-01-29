@@ -1,0 +1,5 @@
+D:\Courses\ASP\SuperFirstWebsite\BusinessRules\bin\Debug\BusinessRules.dll
+D:\Courses\ASP\SuperFirstWebsite\BusinessRules\bin\Debug\BusinessRules.pdb
+D:\Courses\ASP\SuperFirstWebsite\BusinessRules\obj\Debug\BusinessRules.csprojAssemblyReference.cache
+D:\Courses\ASP\SuperFirstWebsite\BusinessRules\obj\Debug\BusinessRules.dll
+D:\Courses\ASP\SuperFirstWebsite\BusinessRules\obj\Debug\BusinessRules.pdb
